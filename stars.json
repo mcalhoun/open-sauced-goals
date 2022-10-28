@@ -7,21 +7,21 @@
   },
   {
     "full_name": "cloudposse/atmos",
-    "stargazers_count": 323,
-    "open_issues_count": 38,
-    "forks_count": 52
+    "stargazers_count": 324,
+    "open_issues_count": 36,
+    "forks_count": 53
   },
   {
     "full_name": "rebuy-de/aws-nuke",
-    "stargazers_count": 3883,
+    "stargazers_count": 3895,
     "open_issues_count": 149,
-    "forks_count": 505
+    "forks_count": 506
   },
   {
     "full_name": "gruntwork-io/terragrunt",
-    "stargazers_count": 6262,
-    "open_issues_count": 521,
-    "forks_count": 800
+    "stargazers_count": 6268,
+    "open_issues_count": 523,
+    "forks_count": 802
   },
   {
     "full_name": "cloudposse/github-action-terratest",
@@ -31,7 +31,7 @@
   },
   {
     "full_name": "Noovolari/leapp",
-    "stargazers_count": 1200,
+    "stargazers_count": 1202,
     "open_issues_count": 76,
     "forks_count": 90
   },
@@ -43,9 +43,9 @@
   },
   {
     "full_name": "awslabs/aws-lambda-powertools-typescript",
-    "stargazers_count": 943,
-    "open_issues_count": 73,
-    "forks_count": 63
+    "stargazers_count": 946,
+    "open_issues_count": 70,
+    "forks_count": 65
   },
   {
     "full_name": "DataDog/agent-github-action",
@@ -62,7 +62,7 @@
   {
     "full_name": "gruntwork-io/git-xargs",
     "stargazers_count": 667,
-    "open_issues_count": 29,
+    "open_issues_count": 28,
     "forks_count": 31
   },
   {
@@ -73,9 +73,9 @@
   },
   {
     "full_name": "backstage/backstage",
-    "stargazers_count": 18888,
-    "open_issues_count": 447,
-    "forks_count": 3160
+    "stargazers_count": 18974,
+    "open_issues_count": 461,
+    "forks_count": 3177
   },
   {
     "full_name": "cloudposse/terraform-aws-api-gateway",
@@ -87,23 +87,23 @@
     "full_name": "aws/aws-proton-public-roadmap",
     "stargazers_count": 189,
     "open_issues_count": 40,
-    "forks_count": 9
+    "forks_count": 10
   },
   {
     "full_name": "remoteintech/remote-jobs",
-    "stargazers_count": 22677,
-    "open_issues_count": 30,
-    "forks_count": 2400
+    "stargazers_count": 22740,
+    "open_issues_count": 38,
+    "forks_count": 2412
   },
   {
     "full_name": "knative/serving",
-    "stargazers_count": 4756,
-    "open_issues_count": 169,
-    "forks_count": 974
+    "stargazers_count": 4758,
+    "open_issues_count": 168,
+    "forks_count": 978
   },
   {
     "full_name": "hashicorp/terraform-exec",
-    "stargazers_count": 397,
+    "stargazers_count": 400,
     "open_issues_count": 56,
     "forks_count": 78
   },
@@ -115,33 +115,33 @@
   },
   {
     "full_name": "AcalephStorage/awesome-devops",
-    "stargazers_count": 937,
+    "stargazers_count": 939,
     "open_issues_count": 7,
-    "forks_count": 132
+    "forks_count": 133
   },
   {
     "full_name": "dzharii/awesome-typescript",
-    "stargazers_count": 3284,
+    "stargazers_count": 3289,
     "open_issues_count": 0,
-    "forks_count": 313
+    "forks_count": 314
   },
   {
     "full_name": "enaqx/awesome-react",
-    "stargazers_count": 51796,
+    "stargazers_count": 51890,
     "open_issues_count": 151,
-    "forks_count": 6309
+    "forks_count": 6327
   },
   {
     "full_name": "expressjs/express",
-    "stargazers_count": 58705,
-    "open_issues_count": 160,
-    "forks_count": 9960
+    "stargazers_count": 58723,
+    "open_issues_count": 162,
+    "forks_count": 9967
   },
   {
     "full_name": "LappleApple/awesome-leading-and-managing",
-    "stargazers_count": 6286,
+    "stargazers_count": 6300,
     "open_issues_count": 3,
-    "forks_count": 532
+    "forks_count": 534
   },
   {
     "full_name": "VladRassokhin/intellij-hcl",
@@ -157,14 +157,14 @@
   },
   {
     "full_name": "angular/angular-cli",
-    "stargazers_count": 25703,
-    "open_issues_count": 204,
-    "forks_count": 12113
+    "stargazers_count": 25701,
+    "open_issues_count": 207,
+    "forks_count": 12115
   },
   {
     "full_name": "gruntwork-io/cloud-nuke",
-    "stargazers_count": 2138,
-    "open_issues_count": 69,
+    "stargazers_count": 2141,
+    "open_issues_count": 72,
     "forks_count": 298
   },
   {
