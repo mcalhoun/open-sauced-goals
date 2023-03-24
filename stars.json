@@ -1,9 +1,9 @@
 [
   {
     "full_name": "imdario/mergo",
-    "stargazers_count": 2331,
+    "stargazers_count": 2336,
     "open_issues_count": 32,
-    "forks_count": 249
+    "forks_count": 248
   },
   {
     "full_name": "cloudposse/github-action-terraform-plan-storage",
@@ -25,26 +25,26 @@
   },
   {
     "full_name": "1debit/alternat",
-    "stargazers_count": 566,
-    "open_issues_count": 5,
-    "forks_count": 26
+    "stargazers_count": 570,
+    "open_issues_count": 6,
+    "forks_count": 27
   },
   {
     "full_name": "cloudposse/atmos",
-    "stargazers_count": 374,
+    "stargazers_count": 375,
     "open_issues_count": 44,
     "forks_count": 62
   },
   {
     "full_name": "rebuy-de/aws-nuke",
-    "stargazers_count": 4336,
-    "open_issues_count": 176,
-    "forks_count": 575
+    "stargazers_count": 4342,
+    "open_issues_count": 177,
+    "forks_count": 576
   },
   {
     "full_name": "gruntwork-io/terragrunt",
-    "stargazers_count": 6660,
-    "open_issues_count": 572,
+    "stargazers_count": 6665,
+    "open_issues_count": 577,
     "forks_count": 842
   },
   {
@@ -55,9 +55,9 @@
   },
   {
     "full_name": "Noovolari/leapp",
-    "stargazers_count": 1334,
-    "open_issues_count": 81,
-    "forks_count": 99
+    "stargazers_count": 1340,
+    "open_issues_count": 80,
+    "forks_count": 98
   },
   {
     "full_name": "cloudposse/lambda-github-action-token-rotator",
@@ -67,9 +67,9 @@
   },
   {
     "full_name": "awslabs/aws-lambda-powertools-typescript",
-    "stargazers_count": 1095,
-    "open_issues_count": 76,
-    "forks_count": 82
+    "stargazers_count": 1100,
+    "open_issues_count": 79,
+    "forks_count": 84
   },
   {
     "full_name": "DataDog/agent-github-action",
@@ -85,7 +85,7 @@
   },
   {
     "full_name": "gruntwork-io/git-xargs",
-    "stargazers_count": 749,
+    "stargazers_count": 753,
     "open_issues_count": 33,
     "forks_count": 43
   },
@@ -97,9 +97,9 @@
   },
   {
     "full_name": "backstage/backstage",
-    "stargazers_count": 21206,
-    "open_issues_count": 439,
-    "forks_count": 3806
+    "stargazers_count": 21241,
+    "open_issues_count": 436,
+    "forks_count": 3820
   },
   {
     "full_name": "cloudposse/terraform-aws-api-gateway",
@@ -115,27 +115,27 @@
   },
   {
     "full_name": "remoteintech/remote-jobs",
-    "stargazers_count": 24149,
+    "stargazers_count": 24171,
     "open_issues_count": 43,
-    "forks_count": 2582
+    "forks_count": 2585
   },
   {
     "full_name": "knative/serving",
     "stargazers_count": 4908,
     "open_issues_count": 174,
-    "forks_count": 1018
+    "forks_count": 1020
   },
   {
     "full_name": "hashicorp/terraform-exec",
-    "stargazers_count": 497,
+    "stargazers_count": 496,
     "open_issues_count": 62,
     "forks_count": 83
   },
   {
     "full_name": "mathieudutour/timezone-butler",
-    "stargazers_count": 107,
+    "stargazers_count": 110,
     "open_issues_count": 29,
-    "forks_count": 13
+    "forks_count": 14
   },
   {
     "full_name": "AcalephStorage/awesome-devops",
@@ -145,37 +145,37 @@
   },
   {
     "full_name": "dzharii/awesome-typescript",
-    "stargazers_count": 3580,
+    "stargazers_count": 3588,
     "open_issues_count": 1,
-    "forks_count": 338
+    "forks_count": 340
   },
   {
     "full_name": "enaqx/awesome-react",
-    "stargazers_count": 54404,
-    "open_issues_count": 160,
-    "forks_count": 6635
+    "stargazers_count": 54441,
+    "open_issues_count": 159,
+    "forks_count": 6637
   },
   {
     "full_name": "expressjs/express",
-    "stargazers_count": 60309,
+    "stargazers_count": 60351,
     "open_issues_count": 155,
-    "forks_count": 10263
+    "forks_count": 10317
   },
   {
     "full_name": "LappleApple/awesome-leading-and-managing",
-    "stargazers_count": 6774,
+    "stargazers_count": 6780,
     "open_issues_count": 2,
-    "forks_count": 577
+    "forks_count": 579
   },
   {
     "full_name": "VladRassokhin/intellij-hcl",
-    "stargazers_count": 246,
+    "stargazers_count": 245,
     "open_issues_count": 103,
-    "forks_count": 47
+    "forks_count": 48
   },
   {
     "full_name": "gruntwork-io/terraform-aws-couchbase",
-    "stargazers_count": 87,
+    "stargazers_count": 88,
     "open_issues_count": 16,
     "forks_count": 70
   }
