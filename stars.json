@@ -2,20 +2,20 @@
   {
     "full_name": "cloudposse/github-action-atmos-get-setting",
     "stargazers_count": 2,
-    "open_issues_count": 7,
+    "open_issues_count": 11,
     "forks_count": 0
   },
   {
     "full_name": "test-summary/action",
     "stargazers_count": 362,
-    "open_issues_count": 22,
-    "forks_count": 31
+    "open_issues_count": 21,
+    "forks_count": 32
   },
   {
     "full_name": "drizzle-team/drizzle-orm",
-    "stargazers_count": 16824,
-    "open_issues_count": 621,
-    "forks_count": 364
+    "stargazers_count": 16895,
+    "open_issues_count": 624,
+    "forks_count": 367
   },
   {
     "full_name": "palantir/policy-bot",
@@ -25,31 +25,31 @@
   },
   {
     "full_name": "shadcn-ui/ui",
-    "stargazers_count": 46512,
-    "open_issues_count": 1139,
-    "forks_count": 2370
+    "stargazers_count": 47008,
+    "open_issues_count": 1154,
+    "forks_count": 2390
   },
   {
     "full_name": "helmfile/helmfile",
-    "stargazers_count": 2914,
-    "open_issues_count": 46,
+    "stargazers_count": 2923,
+    "open_issues_count": 47,
     "forks_count": 215
   },
   {
     "full_name": "runatlantis/atlantis",
-    "stargazers_count": 6918,
-    "open_issues_count": 548,
-    "forks_count": 974
+    "stargazers_count": 6928,
+    "open_issues_count": 555,
+    "forks_count": 973
   },
   {
     "full_name": "opentofu/opentofu",
-    "stargazers_count": 17956,
-    "open_issues_count": 158,
-    "forks_count": 635
+    "stargazers_count": 18036,
+    "open_issues_count": 155,
+    "forks_count": 638
   },
   {
     "full_name": "opentofu/roadmap",
-    "stargazers_count": 369,
+    "stargazers_count": 368,
     "open_issues_count": 0,
     "forks_count": 3
   },
@@ -61,14 +61,14 @@
   },
   {
     "full_name": "opentofu/manifesto",
-    "stargazers_count": 36242,
+    "stargazers_count": 36243,
     "open_issues_count": 20,
-    "forks_count": 1136
+    "forks_count": 1135
   },
   {
     "full_name": "cloudposse/github-action-atmos-affected-stacks",
     "stargazers_count": 2,
-    "open_issues_count": 1,
+    "open_issues_count": 2,
     "forks_count": 0
   },
   {
@@ -86,12 +86,12 @@
   {
     "full_name": "cloudposse/github-action-atmos-affected-trigger-spacelift",
     "stargazers_count": 3,
-    "open_issues_count": 8,
+    "open_issues_count": 6,
     "forks_count": 2
   },
   {
     "full_name": "darccio/mergo",
-    "stargazers_count": 2642,
+    "stargazers_count": 2645,
     "open_issues_count": 11,
     "forks_count": 266
   },
@@ -104,7 +104,7 @@
   {
     "full_name": "cloudposse/github-action-setup-atmos",
     "stargazers_count": 6,
-    "open_issues_count": 12,
+    "open_issues_count": 13,
     "forks_count": 2
   },
   {
@@ -115,26 +115,26 @@
   },
   {
     "full_name": "1debit/alternat",
-    "stargazers_count": 922,
+    "stargazers_count": 925,
     "open_issues_count": 4,
     "forks_count": 57
   },
   {
     "full_name": "cloudposse/atmos",
-    "stargazers_count": 479,
+    "stargazers_count": 486,
     "open_issues_count": 76,
-    "forks_count": 74
+    "forks_count": 75
   },
   {
     "full_name": "rebuy-de/aws-nuke",
-    "stargazers_count": 5099,
-    "open_issues_count": 242,
-    "forks_count": 688
+    "stargazers_count": 5111,
+    "open_issues_count": 243,
+    "forks_count": 686
   },
   {
     "full_name": "gruntwork-io/terragrunt",
-    "stargazers_count": 7420,
-    "open_issues_count": 659,
+    "stargazers_count": 7427,
+    "open_issues_count": 665,
     "forks_count": 929
   },
   {
@@ -146,7 +146,7 @@
   {
     "full_name": "Noovolari/leapp",
     "stargazers_count": 1496,
-    "open_issues_count": 136,
+    "open_issues_count": 134,
     "forks_count": 130
   },
   {
@@ -157,7 +157,7 @@
   },
   {
     "full_name": "aws-powertools/powertools-lambda-typescript",
-    "stargazers_count": 1390,
+    "stargazers_count": 1391,
     "open_issues_count": 63,
     "forks_count": 120
   },
@@ -175,7 +175,7 @@
   },
   {
     "full_name": "gruntwork-io/git-xargs",
-    "stargazers_count": 863,
+    "stargazers_count": 865,
     "open_issues_count": 34,
     "forks_count": 58
   }
