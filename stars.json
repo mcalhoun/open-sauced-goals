@@ -1,9 +1,9 @@
 [
   {
     "full_name": "cloudposse/atmos",
-    "stargazers_count": 1052,
-    "open_issues_count": 105,
-    "forks_count": 117
+    "stargazers_count": 1055,
+    "open_issues_count": 106,
+    "forks_count": 118
   },
   {
     "full_name": "cloudposse-examples/infra-demo-atmos-pro",
@@ -13,9 +13,9 @@
   },
   {
     "full_name": "jwasham/coding-interview-university",
-    "stargazers_count": 318146,
+    "stargazers_count": 318261,
     "open_issues_count": 73,
-    "forks_count": 78895
+    "forks_count": 78906
   },
   {
     "full_name": "cloudposse/github-action-atmos-get-setting",
@@ -31,39 +31,39 @@
   },
   {
     "full_name": "drizzle-team/drizzle-orm",
-    "stargazers_count": 28381,
-    "open_issues_count": 1528,
-    "forks_count": 873
+    "stargazers_count": 28444,
+    "open_issues_count": 1543,
+    "forks_count": 880
   },
   {
     "full_name": "palantir/policy-bot",
-    "stargazers_count": 837,
+    "stargazers_count": 838,
     "open_issues_count": 99,
     "forks_count": 117
   },
   {
     "full_name": "shadcn-ui/ui",
-    "stargazers_count": 87481,
-    "open_issues_count": 1804,
-    "forks_count": 5960
+    "stargazers_count": 87676,
+    "open_issues_count": 1811,
+    "forks_count": 5985
   },
   {
     "full_name": "helmfile/helmfile",
-    "stargazers_count": 4459,
-    "open_issues_count": 62,
+    "stargazers_count": 4472,
+    "open_issues_count": 64,
     "forks_count": 295
   },
   {
     "full_name": "runatlantis/atlantis",
-    "stargazers_count": 8266,
-    "open_issues_count": 707,
+    "stargazers_count": 8274,
+    "open_issues_count": 706,
     "forks_count": 1111
   },
   {
     "full_name": "opentofu/opentofu",
-    "stargazers_count": 25481,
-    "open_issues_count": 290,
-    "forks_count": 1009
+    "stargazers_count": 25512,
+    "open_issues_count": 291,
+    "forks_count": 1012
   },
   {
     "full_name": "cloudposse/github-action-sync-docker-repos",
@@ -73,7 +73,7 @@
   },
   {
     "full_name": "opentofu/manifesto",
-    "stargazers_count": 36102,
+    "stargazers_count": 36104,
     "open_issues_count": 20,
     "forks_count": 1079
   },
@@ -92,8 +92,8 @@
   {
     "full_name": "cloudposse/github-action-atmos-terraform-plan",
     "stargazers_count": 7,
-    "open_issues_count": 12,
-    "forks_count": 10
+    "open_issues_count": 13,
+    "forks_count": 11
   },
   {
     "full_name": "cloudposse/github-action-atmos-affected-trigger-spacelift",
@@ -103,7 +103,7 @@
   },
   {
     "full_name": "darccio/mergo",
-    "stargazers_count": 2989,
+    "stargazers_count": 2993,
     "open_issues_count": 15,
     "forks_count": 282
   },
@@ -111,7 +111,7 @@
     "full_name": "cloudposse/github-action-terraform-plan-storage",
     "stargazers_count": 8,
     "open_issues_count": 4,
-    "forks_count": 4
+    "forks_count": 5
   },
   {
     "full_name": "cloudposse/github-action-setup-atmos",
@@ -127,21 +127,21 @@
   },
   {
     "full_name": "chime/terraform-aws-alternat",
-    "stargazers_count": 1150,
+    "stargazers_count": 1155,
     "open_issues_count": 11,
-    "forks_count": 73
+    "forks_count": 74
   },
   {
     "full_name": "rebuy-de/aws-nuke",
-    "stargazers_count": 5769,
+    "stargazers_count": 5768,
     "open_issues_count": 0,
     "forks_count": 725
   },
   {
     "full_name": "gruntwork-io/terragrunt",
-    "stargazers_count": 8665,
-    "open_issues_count": 370,
-    "forks_count": 1041
+    "stargazers_count": 8675,
+    "open_issues_count": 357,
+    "forks_count": 1042
   },
   {
     "full_name": "cloudposse/github-action-terratest",
@@ -151,7 +151,7 @@
   },
   {
     "full_name": "Noovolari/leapp",
-    "stargazers_count": 1675,
+    "stargazers_count": 1674,
     "open_issues_count": 151,
     "forks_count": 153
   },
@@ -163,8 +163,8 @@
   },
   {
     "full_name": "aws-powertools/powertools-lambda-typescript",
-    "stargazers_count": 1660,
-    "open_issues_count": 34,
+    "stargazers_count": 1661,
+    "open_issues_count": 40,
     "forks_count": 156
   },
   {
@@ -176,7 +176,7 @@
   {
     "full_name": "cloudposse/terraform-aws-lambda-function",
     "stargazers_count": 35,
-    "open_issues_count": 15,
+    "open_issues_count": 14,
     "forks_count": 43
   }
 ]
