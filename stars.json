@@ -13,9 +13,9 @@
   },
   {
     "full_name": "cloudposse/atmos",
-    "stargazers_count": 1219,
-    "open_issues_count": 175,
-    "forks_count": 137
+    "stargazers_count": 1220,
+    "open_issues_count": 170,
+    "forks_count": 138
   },
   {
     "full_name": "cloudposse-examples/atmos-pro-example-advanced",
@@ -25,9 +25,9 @@
   },
   {
     "full_name": "jwasham/coding-interview-university",
-    "stargazers_count": 335401,
+    "stargazers_count": 335486,
     "open_issues_count": 91,
-    "forks_count": 81543
+    "forks_count": 81537
   },
   {
     "full_name": "cloudposse/github-action-atmos-get-setting",
@@ -43,9 +43,9 @@
   },
   {
     "full_name": "drizzle-team/drizzle-orm",
-    "stargazers_count": 32074,
+    "stargazers_count": 32120,
     "open_issues_count": 1808,
-    "forks_count": 1127
+    "forks_count": 1132
   },
   {
     "full_name": "palantir/policy-bot",
@@ -55,26 +55,26 @@
   },
   {
     "full_name": "shadcn-ui/ui",
-    "stargazers_count": 103716,
-    "open_issues_count": 1814,
-    "forks_count": 7559
+    "stargazers_count": 103867,
+    "open_issues_count": 1829,
+    "forks_count": 7574
   },
   {
     "full_name": "helmfile/helmfile",
-    "stargazers_count": 4904,
-    "open_issues_count": 60,
-    "forks_count": 321
+    "stargazers_count": 4906,
+    "open_issues_count": 59,
+    "forks_count": 319
   },
   {
     "full_name": "runatlantis/atlantis",
-    "stargazers_count": 8742,
-    "open_issues_count": 782,
+    "stargazers_count": 8750,
+    "open_issues_count": 783,
     "forks_count": 1197
   },
   {
     "full_name": "opentofu/opentofu",
-    "stargazers_count": 27440,
-    "open_issues_count": 338,
+    "stargazers_count": 27455,
+    "open_issues_count": 345,
     "forks_count": 1136
   },
   {
@@ -85,7 +85,7 @@
   },
   {
     "full_name": "opentofu/manifesto",
-    "stargazers_count": 35975,
+    "stargazers_count": 35973,
     "open_issues_count": 20,
     "forks_count": 1059
   },
@@ -115,7 +115,7 @@
   },
   {
     "full_name": "darccio/mergo",
-    "stargazers_count": 3077,
+    "stargazers_count": 3078,
     "open_issues_count": 20,
     "forks_count": 284
   },
@@ -145,14 +145,14 @@
   },
   {
     "full_name": "rebuy-de/aws-nuke",
-    "stargazers_count": 5804,
+    "stargazers_count": 5803,
     "open_issues_count": 0,
     "forks_count": 721
   },
   {
     "full_name": "gruntwork-io/terragrunt",
-    "stargazers_count": 9182,
-    "open_issues_count": 244,
+    "stargazers_count": 9185,
+    "open_issues_count": 248,
     "forks_count": 1127
   },
   {
