@@ -2,32 +2,32 @@
   {
     "full_name": "workos/workos-go",
     "stargazers_count": 85,
-    "open_issues_count": 19,
+    "open_issues_count": 18,
     "forks_count": 28
   },
   {
     "full_name": "terramate-io/terramate",
-    "stargazers_count": 3502,
+    "stargazers_count": 3505,
     "open_issues_count": 87,
     "forks_count": 113
   },
   {
     "full_name": "cloudposse/atmos",
-    "stargazers_count": 1243,
-    "open_issues_count": 176,
+    "stargazers_count": 1246,
+    "open_issues_count": 182,
     "forks_count": 140
   },
   {
     "full_name": "cloudposse-examples/atmos-pro-example-advanced",
-    "stargazers_count": 4,
+    "stargazers_count": 5,
     "open_issues_count": 13,
     "forks_count": 4
   },
   {
     "full_name": "jwasham/coding-interview-university",
-    "stargazers_count": 336253,
+    "stargazers_count": 336394,
     "open_issues_count": 92,
-    "forks_count": 81591
+    "forks_count": 81605
   },
   {
     "full_name": "cloudposse/github-action-atmos-get-setting",
@@ -37,45 +37,45 @@
   },
   {
     "full_name": "test-summary/action",
-    "stargazers_count": 434,
+    "stargazers_count": 435,
     "open_issues_count": 25,
     "forks_count": 41
   },
   {
     "full_name": "drizzle-team/drizzle-orm",
-    "stargazers_count": 32503,
-    "open_issues_count": 1526,
-    "forks_count": 1163
+    "stargazers_count": 32540,
+    "open_issues_count": 1533,
+    "forks_count": 1167
   },
   {
     "full_name": "palantir/policy-bot",
-    "stargazers_count": 923,
+    "stargazers_count": 927,
     "open_issues_count": 114,
     "forks_count": 131
   },
   {
     "full_name": "shadcn-ui/ui",
-    "stargazers_count": 105600,
-    "open_issues_count": 1796,
-    "forks_count": 7749
+    "stargazers_count": 105778,
+    "open_issues_count": 1798,
+    "forks_count": 7764
   },
   {
     "full_name": "helmfile/helmfile",
-    "stargazers_count": 4943,
+    "stargazers_count": 4947,
     "open_issues_count": 59,
-    "forks_count": 323
+    "forks_count": 324
   },
   {
     "full_name": "runatlantis/atlantis",
-    "stargazers_count": 8791,
-    "open_issues_count": 795,
-    "forks_count": 1216
+    "stargazers_count": 8799,
+    "open_issues_count": 799,
+    "forks_count": 1217
   },
   {
     "full_name": "opentofu/opentofu",
-    "stargazers_count": 27646,
-    "open_issues_count": 343,
-    "forks_count": 1148
+    "stargazers_count": 27683,
+    "open_issues_count": 337,
+    "forks_count": 1150
   },
   {
     "full_name": "cloudposse/github-action-sync-docker-repos",
@@ -85,9 +85,9 @@
   },
   {
     "full_name": "opentofu/manifesto",
-    "stargazers_count": 35953,
+    "stargazers_count": 35942,
     "open_issues_count": 20,
-    "forks_count": 1057
+    "forks_count": 1054
   },
   {
     "full_name": "cloudposse/github-action-atmos-affected-stacks",
@@ -99,7 +99,7 @@
     "full_name": "cloudposse/github-action-atmos-terraform-apply",
     "stargazers_count": 5,
     "open_issues_count": 10,
-    "forks_count": 12
+    "forks_count": 11
   },
   {
     "full_name": "cloudposse/github-action-atmos-terraform-plan",
@@ -115,7 +115,7 @@
   },
   {
     "full_name": "darccio/mergo",
-    "stargazers_count": 3082,
+    "stargazers_count": 3081,
     "open_issues_count": 20,
     "forks_count": 284
   },
@@ -139,7 +139,7 @@
   },
   {
     "full_name": "chime/terraform-aws-alternat",
-    "stargazers_count": 1233,
+    "stargazers_count": 1235,
     "open_issues_count": 10,
     "forks_count": 86
   },
@@ -147,12 +147,12 @@
     "full_name": "rebuy-de/aws-nuke",
     "stargazers_count": 5808,
     "open_issues_count": 0,
-    "forks_count": 719
+    "forks_count": 718
   },
   {
     "full_name": "gruntwork-io/terragrunt",
-    "stargazers_count": 9240,
-    "open_issues_count": 241,
+    "stargazers_count": 9247,
+    "open_issues_count": 233,
     "forks_count": 1134
   },
   {
@@ -164,8 +164,8 @@
   {
     "full_name": "Noovolari/leapp",
     "stargazers_count": 1736,
-    "open_issues_count": 162,
-    "forks_count": 158
+    "open_issues_count": 164,
+    "forks_count": 159
   },
   {
     "full_name": "cloudposse/lambda-github-action-token-rotator",
@@ -176,7 +176,7 @@
   {
     "full_name": "aws-powertools/powertools-lambda-typescript",
     "stargazers_count": 1764,
-    "open_issues_count": 43,
-    "forks_count": 185
+    "open_issues_count": 33,
+    "forks_count": 187
   }
 ]
