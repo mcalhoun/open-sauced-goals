@@ -1,21 +1,21 @@
 [
   {
     "full_name": "vercel-labs/open-agents",
-    "stargazers_count": 5852,
+    "stargazers_count": 5859,
     "open_issues_count": 57,
-    "forks_count": 752
+    "forks_count": 750
   },
   {
     "full_name": "JuliusBrussee/caveman",
-    "stargazers_count": 113724,
-    "open_issues_count": 67,
-    "forks_count": 6578
+    "stargazers_count": 114465,
+    "open_issues_count": 89,
+    "forks_count": 6595
   },
   {
     "full_name": "snarktank/antfarm",
-    "stargazers_count": 2495,
+    "stargazers_count": 2494,
     "open_issues_count": 110,
-    "forks_count": 452
+    "forks_count": 451
   },
   {
     "full_name": "terramate-io/agent-skills",
@@ -31,15 +31,15 @@
   },
   {
     "full_name": "terramate-io/terramate",
-    "stargazers_count": 3638,
+    "stargazers_count": 3639,
     "open_issues_count": 99,
     "forks_count": 131
   },
   {
     "full_name": "jwasham/coding-interview-university",
-    "stargazers_count": 363131,
+    "stargazers_count": 363273,
     "open_issues_count": 129,
-    "forks_count": 85038
+    "forks_count": 85032
   },
   {
     "full_name": "test-summary/action",
@@ -49,45 +49,45 @@
   },
   {
     "full_name": "drizzle-team/drizzle-orm",
-    "stargazers_count": 36096,
-    "open_issues_count": 2168,
-    "forks_count": 1727
+    "stargazers_count": 36116,
+    "open_issues_count": 2045,
+    "forks_count": 1739
   },
   {
     "full_name": "palantir/policy-bot",
-    "stargazers_count": 1062,
-    "open_issues_count": 122,
-    "forks_count": 159
+    "stargazers_count": 1063,
+    "open_issues_count": 127,
+    "forks_count": 161
   },
   {
     "full_name": "shadcn-ui/ui",
-    "stargazers_count": 125994,
-    "open_issues_count": 1777,
-    "forks_count": 13629
+    "stargazers_count": 126264,
+    "open_issues_count": 1783,
+    "forks_count": 13282
   },
   {
     "full_name": "darccio/mergo",
-    "stargazers_count": 3108,
+    "stargazers_count": 3109,
     "open_issues_count": 24,
     "forks_count": 286
   },
   {
     "full_name": "chime/terraform-aws-alternat",
-    "stargazers_count": 1266,
+    "stargazers_count": 1267,
     "open_issues_count": 29,
     "forks_count": 94
   },
   {
     "full_name": "gruntwork-io/terragrunt",
-    "stargazers_count": 9886,
-    "open_issues_count": 218,
-    "forks_count": 1241
+    "stargazers_count": 9893,
+    "open_issues_count": 210,
+    "forks_count": 1244
   },
   {
     "full_name": "aws-powertools/powertools-lambda-typescript",
     "stargazers_count": 1796,
-    "open_issues_count": 35,
-    "forks_count": 207
+    "open_issues_count": 34,
+    "forks_count": 208
   },
   {
     "full_name": "DataDog/agent-github-action",
@@ -97,9 +97,9 @@
   },
   {
     "full_name": "remoteintech/remote-jobs",
-    "stargazers_count": 40895,
-    "open_issues_count": 19,
-    "forks_count": 3953
+    "stargazers_count": 40917,
+    "open_issues_count": 22,
+    "forks_count": 3954
   },
   {
     "full_name": "mathieudutour/timezone-butler",
@@ -115,20 +115,20 @@
   },
   {
     "full_name": "dzharii/awesome-typescript",
-    "stargazers_count": 5113,
+    "stargazers_count": 5112,
     "open_issues_count": 3,
-    "forks_count": 496
+    "forks_count": 497
   },
   {
     "full_name": "enaqx/awesome-react",
-    "stargazers_count": 74977,
-    "open_issues_count": 26,
+    "stargazers_count": 75021,
+    "open_issues_count": 29,
     "forks_count": 7672
   },
   {
     "full_name": "ansible/ansible",
-    "stargazers_count": 71028,
-    "open_issues_count": 864,
-    "forks_count": 24377
+    "stargazers_count": 71067,
+    "open_issues_count": 863,
+    "forks_count": 24315
   }
 ]
